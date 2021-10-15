@@ -1,0 +1,33 @@
+footer{
+    display: grid;
+    color: white;
+    text-align: center;
+    background-color: gray;
+}
+
+nav{
+    background-color: silver;
+}
+
+.body{
+    display: flex;
+}
+
+.biodata{
+    background-color: lightgray;
+    width: 60%;
+}
+
+.berita{
+    background-color: lightgray;
+    width: 40%;
+}
+
+#logo{
+    width: 90px;
+    height: 90px;
+}
+
+h1{
+    text-align: center;
+}
